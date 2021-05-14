@@ -1,0 +1,8 @@
+.welcome_container {
+    padding: 10% 15% 10% 10% !important;
+}
+
+.welcome_container h1{
+    color: #198eff;
+    font-weight: 100;
+}

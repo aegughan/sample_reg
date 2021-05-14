@@ -1,0 +1,7 @@
+.left_panel {
+    background-color: #2b88fc;
+    min-height: 100vh;
+    color: #ffffff;
+    padding: 45% 15%;
+    background-image: linear-gradient(to top, #557af5, #198eff);
+}

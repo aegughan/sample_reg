@@ -1,0 +1,7 @@
+Logic:
+
+1. Initially I have created a separate components for registration process.
+    Welcome -> CollegeDetails -> UserCredentials -> MobileVerification -> RegistrationComplete
+
+2. I have created the reusable component for left panel of registration process.
+    The left panel accept three props heading, subheading, image. Based on the props received the LeftPanel component will be render for each page
